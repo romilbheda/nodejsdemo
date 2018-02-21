@@ -1,0 +1,11 @@
+{
+  "name": "nodejsdemo",
+  "version": "1.0.0",
+  "description": "Simple Node.Js sample for Azure App Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
